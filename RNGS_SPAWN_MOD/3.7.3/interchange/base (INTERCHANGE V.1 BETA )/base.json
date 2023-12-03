@@ -106,7 +106,7 @@
     "VisibleDistance": 1
   },
   "BotMarksman": 0,
-  "BotMax": 17,
+  "BotMax": 18,
   "BotMaxPlayer": 9,
   "BotMaxTimePlayer": 1000,
   "BotNormal": 50,
@@ -166,7 +166,7 @@
       "time": 420
     }
   ],
-  "MaxBotPerZone": 4,
+  "MaxBotPerZone": 6,
   "MaxCoopGroup": 14,
   "MaxDistToFreePoint": 170,
   "MaxPlayers": 14,
