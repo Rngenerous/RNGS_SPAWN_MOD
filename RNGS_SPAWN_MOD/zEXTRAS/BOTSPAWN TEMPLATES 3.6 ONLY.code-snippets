@@ -1,0 +1,779 @@
+// TEMPLATES
+
+{
+    "BotPreset": "hard", // DIFFICULTY ONLY KNOW NORMAL/HARD
+    "BotSide": "Savage", // waves will only spawn entries with a BotSide of Savage 
+    "SpawnPoints": "BotZone", // OPEN ZONE TO SPAWN BOT IN
+    "WildSpawnType": "assault", // CONFIGUABLE FOR SPAWNING BEAR USEC PMCBOT ETC?
+    "isPlayers": true, // DONT KNOW, RELATED TO SPAWNING OF PMCS
+    "number": 0, // WAVE NUMBERS NEEDS TO BE 0>1>2>3 ETC
+    "slots_max": 12, // MAX SLOTS TO SPAWN (EXAGGERATED LIKE LOC.BASE?)
+    "slots_min": 3, // MIN SLOTS TO SPAWN (EXAGGERATED LIKE LOC.BASE?)
+    "time_max": 10, // MAX TIME TO SPAWN BOT WAVE
+    "time_min": 1 // MIN TIME TO SPAWN BOT WAVE
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//FIRST PASS FACTORY
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 0,
+    "slots_max": 12,
+    "slots_min": 3,
+    "time_max": 10,
+    "time_min": 1
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 1,
+    "slots_max": 12,
+    "slots_min": 3,
+    "time_max": 60,
+    "time_min": 10
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 2,
+    "slots_max": 8,
+    "slots_min": 4,
+    "time_max": 120,
+    "time_min": 60
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 3,
+    "slots_max": 8,
+    "slots_min": 4,
+    "time_max": 240,
+    "time_min": 120
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 4,
+    "slots_max": 6,
+    "slots_min": 3,
+    "time_max": 300,
+    "time_min": 240
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 5,
+    "slots_max": 6,
+    "slots_min": 3,
+    "time_max": 510,
+    "time_min": 300
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 6,
+    "slots_max": 4,
+    "slots_min": 2,
+    "time_max": 600,
+    "time_min": 520
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 7,
+    "slots_max": 4,
+    "slots_min": 2,
+    "time_max": 700,
+    "time_min": 610
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 87,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 800,
+    "time_min": 710
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 9,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 900,
+    "time_min": 810
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 10,
+    "slots_max": 12,
+    "slots_min": 3,
+    "time_max": 1000,
+    "time_min": 910
+}
+
+// FACTORY 2ND PASS WRONG NUMBERS
+
+
+    {
+        "BotPreset": "hard",
+        "BotSide": "Savage",
+        "SpawnPoints": "BotZone",
+        "WildSpawnType": "assault",
+        "isPlayers": true,
+        "number": 1,
+        "slots_max": 12,
+        "slots_min": 3,
+        "time_max": 60,
+        "time_min": 10
+    },
+    {
+        "BotPreset": "hard",
+        "BotSide": "Savage",
+        "SpawnPoints": "BotZone",
+        "WildSpawnType": "assault",
+        "isPlayers": true,
+        "number": 3,
+        "slots_max": 8,
+        "slots_min": 4,
+        "time_max": 240,
+        "time_min": 120
+    },
+    {
+        "BotPreset": "hard",
+        "BotSide": "Savage",
+        "SpawnPoints": "BotZone",
+        "WildSpawnType": "assault",
+        "isPlayers": true,
+        "number": 5,
+        "slots_max": 6,
+        "slots_min": 3,
+        "time_max": 510,
+        "time_min": 300
+    },
+    {
+        "BotPreset": "hard",
+        "BotSide": "Savage",
+        "SpawnPoints": "BotZone",
+        "WildSpawnType": "assault",
+        "isPlayers": true,
+        "number": 6,
+        "slots_max": 4,
+        "slots_min": 2,
+        "time_max": 600,
+        "time_min": 520
+    },
+    {
+        "BotPreset": "hard",
+        "BotSide": "Savage",
+        "SpawnPoints": "BotZone",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "number": 7,
+        "slots_max": 4,
+        "slots_min": 2,
+        "time_max": 700,
+        "time_min": 610
+    },
+    {
+        "BotPreset": "hard",
+        "BotSide": "Savage",
+        "SpawnPoints": "BotZone",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "number": 87,
+        "slots_max": 3,
+        "slots_min": 0,
+        "time_max": 800,
+        "time_min": 710
+    },
+    {
+        "BotPreset": "hard",
+        "BotSide": "Savage",
+        "SpawnPoints": "BotZone",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "number": 9,
+        "slots_max": 3,
+        "slots_min": 0,
+        "time_max": 900,
+        "time_min": 810
+    },
+    {
+        "BotPreset": "hard",
+        "BotSide": "Savage",
+        "SpawnPoints": "BotZone",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "number": 10,
+        "slots_max": 12,
+        "slots_min": 3,
+        "time_max": 1000,
+        "time_min": 910
+    }
+
+
+// FACTORY 3rd PASS STILL TOO CRAZY
+
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 0,
+    "slots_max": 8,
+    "slots_min": 4,
+    "time_max": 60,
+    "time_min": 10
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 1,
+    "slots_max": 8,
+    "slots_min": 4,
+    "time_max": 240,
+    "time_min": 120
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 2,
+    "slots_max": 6,
+    "slots_min": 3,
+    "time_max": 510,
+    "time_min": 300
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 3,
+    "slots_max": 4,
+    "slots_min": 2,
+    "time_max": 600,
+    "time_min": 520
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 4,
+    "slots_max": 4,
+    "slots_min": 2,
+    "time_max": 700,
+    "time_min": 610
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 5,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 800,
+    "time_min": 710
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 6,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 900,
+    "time_min": 810
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 7,
+    "slots_max": 12,
+    "slots_min": 3,
+    "time_max": 1000,
+    "time_min": 910
+}
+
+// FACTORY CURRENT/NEW
+
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 0,
+    "slots_max": 5,
+    "slots_min": 0,
+    "time_max": 10,
+    "time_min": 1
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 1,
+    "slots_max": 5,
+    "slots_min": 0,
+    "time_max": 60,
+    "time_min": 10
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 2,
+    "slots_max": 5,
+    "slots_min": 0,
+    "time_max": 120,
+    "time_min": 60
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 3,
+    "slots_max": 4,
+    "slots_min": 0,
+    "time_max": 240,
+    "time_min": 120
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 4,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 300,
+    "time_min": 240
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 5,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 510,
+    "time_min": 300
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 6,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 600,
+    "time_min": 520
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZone",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 7,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 700,
+    "time_min": 610
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 8,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 800,
+    "time_min": 710
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 9,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 900,
+    "time_min": 810
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "",
+    "WildSpawnType": "assault",
+    "isPlayers": false,
+    "number": 10,
+    "slots_max": 5,
+    "slots_min": 0,
+    "time_max": 1000,
+    "time_min": 910
+}
+
+
+//LABS OLD/DEAD
+
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneBasement",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 0,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 10,
+    "time_min": 1
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor1",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 1,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 10,
+    "time_min": 1
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor2",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 2,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 10,
+    "time_min": 1
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneBasement",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 4,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 900,
+    "time_min": 300
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor1",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 5,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 900,
+    "time_min": 300
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor2",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 6,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 900,
+    "time_min": 300
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneBasement",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 8,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 1200,
+    "time_min": 910
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor1",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 9,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 1200,
+    "time_min": 910
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor2",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 10,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 1200,
+    "time_min": 910
+}
+
+//LABS NEW/CURRENT
+
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneBasement",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 0,
+    "slots_max": 6,
+    "slots_min": 3,
+    "time_max": 60,
+    "time_min": 10
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor1",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 1,
+    "slots_max": 6,
+    "slots_min": 3,
+    "time_max": 60,
+    "time_min": 10
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor2",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 2,
+    "slots_max": 6,
+    "slots_min": 3,
+    "time_max": 60,
+    "time_min": 10
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneBasement",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 3,
+    "slots_max": 4,
+    "slots_min": 2,
+    "time_max": 240,
+    "time_min": 120
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor1",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 4,
+    "slots_max": 4,
+    "slots_min": 2,
+    "time_max": 240,
+    "time_min": 120
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor2",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 5,
+    "slots_max": 4,
+    "slots_min": 2,
+    "time_max": 240,
+    "time_min": 120
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneBasement",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 6,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 900,
+    "time_min": 300
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor1",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 7,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 900,
+    "time_min": 300
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor2",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 8,
+    "slots_max": 3,
+    "slots_min": 0,
+    "time_max": 900,
+    "time_min": 300
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneBasement",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 9,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 1200,
+    "time_min": 910
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor1",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 10,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 1200,
+    "time_min": 910
+},
+{
+    "BotPreset": "hard",
+    "BotSide": "Savage",
+    "SpawnPoints": "BotZoneFloor2",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 11,
+    "slots_max": 2,
+    "slots_min": 0,
+    "time_max": 1200,
+    "time_min": 910
+}
+
+
+
+
+// CULTIST FACTORY TEMPLATE
+
+{
+    "BossName": "sectantPriest",
+    "BossChance": 15,
+    "BossZone": "",
+    "BossPlayer": false,
+    "BossDifficult": "normal",
+    "BossEscortType": "sectantWarrior",
+    "BossEscortDifficult": "normal",
+    "BossEscortAmount": "3,4,5",
+    "Time": -1,
+    "RandomTimeSpawn": false
+},
+
+//END
