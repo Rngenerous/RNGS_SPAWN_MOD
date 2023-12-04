@@ -16,9 +16,9 @@ SIT_DIR>SERVER>USER>CACHE>DELETE BOTH JSONS. NOT SITCOOP!
 V1 files = Untested, there may be issues still need fixing like no pmc etc... report any issues!
 
 IF A FOLDER IN MY MOD IS EMPTY, THIS MEANS I HAVENT FINISHED THE MAP YET!!! PLEASE STAY PATIENT!
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-V5 - EXPERIMENTAL (3.8) (new wave spawner system by me :D)
 
+V5 - EXPERIMENTAL (3.8) (new wave spawner system by me :D)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 this file has been built from the ground up, you will notice the raids will feel different compared to my other files, (bots are allowed to convert to opposite faction again FINALLY!)
 there are still some small kinks for me to work out, 
 
@@ -35,6 +35,7 @@ there are some things you can and id reccomend to play around with
 you can increase these, keep in mind it wont generate more "waves" 
 
 (3.7.3)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Customs - 
 ADDED PMCBOT 5%,BOSSANITAR 10%, BOSSGLUHAR 10%, sectantPriest 10%, 
 
