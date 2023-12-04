@@ -33,7 +33,7 @@ there are some things you can and id reccomend to play around with
   "BotMaxPlayer" - be careful you can break spawn ratios
 
 you can increase these, keep in mind it wont generate more "waves" 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 (3.7.3)
 Customs - 
 ADDED PMCBOT 5%,BOSSANITAR 10%, BOSSGLUHAR 10%, sectantPriest 10%, 
