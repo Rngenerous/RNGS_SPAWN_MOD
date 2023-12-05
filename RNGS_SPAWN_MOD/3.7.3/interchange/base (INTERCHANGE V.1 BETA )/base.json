@@ -166,7 +166,7 @@
       "time": 420
     }
   ],
-  "MaxBotPerZone": 6,
+  "MaxBotPerZone": 2,
   "MaxCoopGroup": 14,
   "MaxDistToFreePoint": 170,
   "MaxPlayers": 14,
