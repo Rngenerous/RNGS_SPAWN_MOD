@@ -116,19 +116,6 @@
           }
       ],
       "RandomTimeSpawn": true
-  },
-  {
-      "BossChance": 10,
-      "BossDifficult": "normal",
-      "BossEscortAmount": "3,4",
-      "BossEscortDifficult": "normal",
-      "BossEscortType": "arenaFighterEvent",
-      "BossName": "arenaFighterEvent",
-      "BossPlayer": false,
-      "BossZone": "ZoneMiniHouse,ZoneClearVill,ZoneRoad,ZoneBrokenVill,ZoneScavBase2",
-      "RandomTimeSpawn": false,
-      "Supports": null,
-      "Time": -1
   }
   ],
   "BotAssault": 80,
