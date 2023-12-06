@@ -53,43 +53,6 @@
       "Time": -1,
       "Supports": null,
       "RandomTimeSpawn": false
-  },
-  {
-      "BossName": "bossTagilla",
-      "BossChance": 10,
-      "BossZone": "ZoneCenterBot,ZoneCenter,ZoneOLI,ZoneIDEA,ZoneGoshan,ZoneIDEAPark,ZoneOLIPark",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "followerBully",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "0",
-      "Time": -1,
-      "RandomTimeSpawn": false
-  },
-  {
-      "BossName": "pmcBot",
-      "BossChance": 5,
-      "BossZone": "ZonePowerStation,ZoneTrucks",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "pmcBot",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "3,3,3,3,3,3,4,5",
-      "Time": -1,
-      "RandomTimeSpawn": false
-  },
-  {
-      "BossName": "bossBully",
-      "BossChance": 10,
-      "BossZone": "ZonePowerStation,ZoneTrucks",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "followerBully",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "4",
-      "Time": -1,
-      "Supports": null,
-      "RandomTimeSpawn": false
   }
   ],
   "BotAssault": 100,

@@ -97,31 +97,6 @@
       "RandomTimeSpawn": false
   },
   {
-      "BossName": "sectantPriest",
-      "BossChance": 10,
-      "BossZone": "ZoneScavBase, ZoneDormitory, ZoneCustoms, ZoneGasStation, ZoneBlockPost, ZoneTankSquare, ZoneOldAZS, ZoneCrossRoad",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "sectantWarrior",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "4",
-      "Time": -1,
-      "Supports": null,
-      "RandomTimeSpawn": false
-  },
-  {
-      "BossName": "pmcBot",
-      "BossChance": 5,
-      "BossZone": "ZoneBrige,ZoneCustoms,ZoneFactoryCenter,ZoneFactorySide,ZoneOldAZS,ZoneBlockPost,ZoneTankSquare,ZoneWade,ZoneCrossRoad",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "pmcBot",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "3,3,3,3,3,3,4,5",
-      "Time": -1,
-      "RandomTimeSpawn": false
-  },
-  {
       "BossName": "exUsec",
       "BossChance": 10,
       "BossZone": "ZoneBrige,ZoneCustoms,ZoneFactoryCenter,ZoneFactorySide,ZoneOldAZS,ZoneBlockPost,ZoneTankSquare,ZoneWade,ZoneCrossRoad",
@@ -138,7 +113,7 @@
   },
   {
       "BossName": "bossKnight",
-      "BossChance": 5,
+      "BossChance": 25,
       "BossZone": "ZoneBrige,ZoneCustoms,ZoneFactoryCenter,ZoneFactorySide,ZoneBlockPost,ZoneTankSquare,ZoneWade,ZoneCrossRoad",
       "BossPlayer": false,
       "BossDifficult": "normal",
@@ -170,56 +145,6 @@
           }
       ],
       "RandomTimeSpawn": true
-  },
-  {
-      "BossChance": 10,
-      "BossDifficult": "normal",
-      "BossEscortAmount": "3,4",
-      "BossEscortDifficult": "normal",
-      "BossEscortType": "followerSanitar",
-      "BossName": "bossSanitar",
-      "BossPlayer": false,
-      "BossZone": "ZoneCustoms, ZoneOldAZS, ZoneBlockPost, ZoneTankSquare",
-      "RandomTimeSpawn": false,
-      "Supports": null,
-      "Time": -1
-  },
-  {
-      "BossName": "bossGluhar",
-      "BossChance": 10,
-      "BossZone": "ZoneCustoms, ZoneOldAZS, ZoneBlockPost, ZoneTankSquare",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "followerGluharAssault",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "0",
-      "Time": -1,
-      "TriggerId": "",
-      "TriggerName": "",
-      "Supports": [
-          {
-              "BossEscortType": "followerGluharAssault",
-              "BossEscortDifficult": [
-                  "normal"
-              ],
-              "BossEscortAmount": "2"
-          },
-          {
-              "BossEscortType": "followerGluharSecurity",
-              "BossEscortDifficult": [
-                  "normal"
-              ],
-              "BossEscortAmount": "2"
-          },
-          {
-              "BossEscortType": "followerGluharScout",
-              "BossEscortDifficult": [
-                  "normal"
-              ],
-              "BossEscortAmount": "2"
-          }
-      ],
-      "RandomTimeSpawn": false
   },
   {
       "BossChance": 10,

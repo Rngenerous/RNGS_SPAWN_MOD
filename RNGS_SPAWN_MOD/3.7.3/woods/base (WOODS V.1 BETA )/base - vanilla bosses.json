@@ -42,94 +42,66 @@
   ],
   "BossLocationSpawn": [
     {
-      "BossName": "bossKojaniy",
-      "BossChance": 30,
-      "BossZone": "ZoneWoodCutter",
-      "BossPlayer": false,
+      "BossChance": 35,
       "BossDifficult": "normal",
-      "BossEscortType": "followerKojaniy",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "2,2,2,2,2,2,3,3,3,4",
-      "Time": -1,
-      "Supports": null,
-      "RandomTimeSpawn": false
-  },
-  {
-      "BossName": "sectantPriest",
-      "BossChance": 10,
-      "BossZone": "ZoneMiniHouse,ZoneBrokenVill",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "sectantWarrior",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "4",
-      "Time": -1,
-      "Supports": null,
-      "RandomTimeSpawn": false
-  },
-  {
-      "BossName": "exUsec",
-      "BossChance": 10,
-      "BossZone": "ZoneClearVill,ZoneHouse,ZoneScavBase2,ZoneHouse,ZoneRoad,ZoneMiniHouse,ZoneBigRocks",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "exUsec",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "3,3,3,3,3,3,4,5",
-      "Time": -1,
-      "TriggerId": "",
-      "TriggerName": "",
-      "Supports": null,
-      "RandomTimeSpawn": false
-  },
-  {
-      "BossName": "bossKnight",
-      "BossChance": 5,
-      "BossZone": "ZoneClearVill,ZoneHouse,ZoneScavBase2,ZoneHouse,ZoneRoad,ZoneMiniHouse,ZoneBigRocks",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "exUsec",
-      "BossEscortDifficult": "normal",
       "BossEscortAmount": "2",
-      "Time": -1,
-      "Supports": [
-          {
-              "BossEscortType": "followerBigPipe",
-              "BossEscortDifficult": [
-                  "normal"
-              ],
-              "BossEscortAmount": "1"
-          },
-          {
-              "BossEscortType": "followerBirdEye",
-              "BossEscortDifficult": [
-                  "normal"
-              ],
-              "BossEscortAmount": "1"
-          },
-          {
-              "BossEscortType": "followerGluharScout",
-              "BossEscortDifficult": [
-                  "normal"
-              ],
-              "BossEscortAmount": "0"
-          }
-      ],
-      "RandomTimeSpawn": true
-  },
-  {
-      "BossChance": 10,
-      "BossDifficult": "normal",
-      "BossEscortAmount": "3,4",
       "BossEscortDifficult": "normal",
-      "BossEscortType": "arenaFighterEvent",
-      "BossName": "arenaFighterEvent",
+      "BossEscortType": "exUsec",
+      "BossName": "bossKnight",
       "BossPlayer": false,
-      "BossZone": "ZoneMiniHouse,ZoneClearVill,ZoneRoad,ZoneBrokenVill,ZoneScavBase2",
+      "BossZone": "ZoneScavBase2",
+      "RandomTimeSpawn": true,
+      "Supports": [
+        {
+          "BossEscortAmount": "1",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortType": "followerBigPipe"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortType": "followerBirdEye"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortType": "followerGluharScout"
+        }
+      ],
+      "Time": -1
+    },
+    {
+      "BossChance": 30,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "2",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "followerKojaniy",
+      "BossName": "bossKojaniy",
+      "BossPlayer": false,
+      "BossZone": "ZoneWoodCutter",
       "RandomTimeSpawn": false,
       "Supports": null,
       "Time": -1
-  }
+    },
+    {
+      "BossChance": 15,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "4",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "sectantWarrior",
+      "BossName": "sectantPriest",
+      "BossPlayer": false,
+      "BossZone": "ZoneMiniHouse,ZoneBrokenVill",
+      "RandomTimeSpawn": false,
+      "Supports": null,
+      "Time": -1
+    }
   ],
   "BotAssault": 80,
   "BotEasy": 10,
