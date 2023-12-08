@@ -97,21 +97,6 @@
       "RandomTimeSpawn": false
   },
   {
-      "BossName": "exUsec",
-      "BossChance": 10,
-      "BossZone": "ZoneBrige,ZoneCustoms,ZoneFactoryCenter,ZoneFactorySide,ZoneOldAZS,ZoneBlockPost,ZoneTankSquare,ZoneWade,ZoneCrossRoad",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "exUsec",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "3,3,3,3,3,3,4,5",
-      "Time": -1,
-      "TriggerId": "",
-      "TriggerName": "",
-      "Supports": null,
-      "RandomTimeSpawn": false
-  },
-  {
       "BossName": "bossKnight",
       "BossChance": 25,
       "BossZone": "ZoneBrige,ZoneCustoms,ZoneFactoryCenter,ZoneFactorySide,ZoneBlockPost,ZoneTankSquare,ZoneWade,ZoneCrossRoad",
