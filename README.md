@@ -1,5 +1,10 @@
 # RNGS_SPAWN_MOD
+-
 
+Due to some IRL things for a short time updates will be paused.
+
+
+-
 Thankyou for downloading! 
 
 IF YOUVE ALREADY READ THIS SEE THE README IN rezervebase>base (REZ FIX V5 STABLE)
