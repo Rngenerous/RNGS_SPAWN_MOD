@@ -1,13 +1,13 @@
 # RNGS_SPAWN_MOD
 -
 
-Due to some IRL things for a short time updates will be paused.
+IM BACK
 
 
 -
 Thankyou for downloading! 
 
-IF YOUVE ALREADY READ THIS SEE THE README IN rezervebase>base (REZ FIX V5 STABLE)
+
 	
 Files are located in RNGSPAWN.MASTER>RNGS_SPAWN_MOD>THE MAP YOU WANT> 
 
@@ -22,8 +22,10 @@ V1 files = Untested, there may be issues still need fixing like no pmc etc... re
 
 IF A FOLDER IN MY MOD IS EMPTY, THIS MEANS I HAVENT FINISHED THE MAP YET!!! PLEASE STAY PATIENT!
 
-V5 - EXPERIMENTAL (3.8) (new wave spawner system by me :D)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+V5 - EXPERIMENTAL (new wave spawner system by me :D)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\
+(3.8.0)
+
 this file has been built from the ground up, you will notice the raids will feel different compared to my other files, (bots are allowed to convert to opposite faction again FINALLY!)
 there are still some small kinks for me to work out, 
 
@@ -39,8 +41,17 @@ there are some things you can and id reccomend to play around with
 
 you can increase these, keep in mind it wont generate more "waves" 
 
-(3.7.3)
+
+"Rules" 
+
+                    (Normal: = default scavs will fight pmc, pmc wont fight same faction )
+                    (AvoidOwnPMC: ?? test this i didnt have time)
+                    (AvoidAllPMC: ALL PMC HOSTILE TO SAME FACTION/OPPOSITE FACTION & SCAVS)
+ 
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3.7.3)
 Customs - 
 ADDED PMCBOT 5%,BOSSANITAR 10%, BOSSGLUHAR 10%, sectantPriest 10%, 
 
@@ -86,3 +97,4 @@ FEEL FREE TO DM ME ANY QUESTIONS
 
 Discord - rngenerous
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+i wil make fps + soon 
