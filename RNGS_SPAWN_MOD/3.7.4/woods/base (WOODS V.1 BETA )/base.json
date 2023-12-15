@@ -55,19 +55,6 @@
       "RandomTimeSpawn": false
   },
   {
-      "BossName": "sectantPriest",
-      "BossChance": 10,
-      "BossZone": "ZoneMiniHouse,ZoneBrokenVill",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "sectantWarrior",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "4",
-      "Time": -1,
-      "Supports": null,
-      "RandomTimeSpawn": false
-  },
-  {
       "BossName": "exUsec",
       "BossChance": 10,
       "BossZone": "ZoneClearVill,ZoneHouse,ZoneScavBase2,ZoneHouse,ZoneRoad,ZoneMiniHouse,ZoneBigRocks",

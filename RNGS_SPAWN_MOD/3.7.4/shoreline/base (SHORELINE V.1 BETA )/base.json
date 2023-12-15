@@ -55,32 +55,6 @@
       "Time": -1
   },
   {
-      "BossName": "sectantPriest",
-      "BossChance": 10,
-      "BossZone": "ZoneForestGasStation,ZoneForestSpawn",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "sectantWarrior",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "4",
-      "Time": -1,
-      "Supports": null,
-      "RandomTimeSpawn": false
-  },
-  {
-      "BossName": "sectantPriest",
-      "BossChance": 10,
-      "BossZone": "ZoneSanatorium1,ZoneSanatorium2",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "sectantWarrior",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "4",
-      "Time": -1,
-      "Supports": null,
-      "RandomTimeSpawn": false
-  },
-  {
       "BossName": "exUsec",
       "BossChance": 10,
       "BossZone": "ZoneIsland,ZoneGasStation,ZoneMeteoStation,ZonePowerStation,ZoneBusStation,ZoneRailWays,ZoneForestTruck,ZoneForestSpawn",

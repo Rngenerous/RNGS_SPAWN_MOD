@@ -97,19 +97,6 @@
       "RandomTimeSpawn": false
   },
   {
-      "BossName": "sectantPriest",
-      "BossChance": 10,
-      "BossZone": "ZoneScavBase, ZoneDormitory, ZoneCustoms, ZoneGasStation, ZoneBlockPost, ZoneTankSquare, ZoneOldAZS, ZoneCrossRoad",
-      "BossPlayer": false,
-      "BossDifficult": "normal",
-      "BossEscortType": "sectantWarrior",
-      "BossEscortDifficult": "normal",
-      "BossEscortAmount": "4",
-      "Time": -1,
-      "Supports": null,
-      "RandomTimeSpawn": false
-  },
-  {
       "BossName": "pmcBot",
       "BossChance": 5,
       "BossZone": "ZoneBrige,ZoneCustoms,ZoneFactoryCenter,ZoneFactorySide,ZoneOldAZS,ZoneBlockPost,ZoneTankSquare,ZoneWade,ZoneCrossRoad",
