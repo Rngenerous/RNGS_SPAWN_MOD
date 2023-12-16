@@ -1,0 +1,259 @@
+{
+    "enableSeasonalEventDetection": true,
+    "eventGear": {
+        "halloween": {
+            "assault": {
+                "FaceCover": {
+                    "5bd071d786f7747e707b93a3": 1500,
+                    "5bd0716d86f774171822ef4b": 1500,
+                    "5bd06f5d86f77427101ad47c": 1500,
+                    "6176a48d732a664031271438": 1500,
+                    "6176a40f0b8c0312ac75a3d3": 1500,
+                    "62a5c2c98ec41a51b34739c0": 1500,
+                    "62a5c333ec21e50cad3b5dc6": 1500,
+                    "62a5c41e8ec41a51b34739c3": 1500,
+                    "635267ab3c89e2112001f826": 1500,
+					"5e54f79686f7744022011103": 1500
+                },
+                "Headwear": {
+                    "59ef13ca86f77445fd0e2483": 1500
+                }
+            },
+            "bossTagilla": {
+                "Scabbard": {
+                    "63495c500c297e20065a08b1": 10
+                }
+            },
+			"bear": {
+				"FaceCover": {
+                    "5bd071d786f7747e707b93a3": 5,
+                    "5bd0716d86f774171822ef4b": 5,
+                    "5bd06f5d86f77427101ad47c": 5,
+                    "6176a48d732a664031271438": 5,
+                    "6176a40f0b8c0312ac75a3d3": 5,
+                    "62a5c2c98ec41a51b34739c0": 5,
+                    "62a5c333ec21e50cad3b5dc6": 5,
+                    "62a5c41e8ec41a51b34739c3": 5,
+                    "635267ab3c89e2112001f826": 5,
+					"5e54f79686f7744022011103": 5
+                },
+                "Headwear": {
+                    "59ef13ca86f77445fd0e2483": 25
+                }
+			},
+			"usec": {
+				"FaceCover": {
+                    "5bd071d786f7747e707b93a3": 5,
+                    "5bd0716d86f774171822ef4b": 5,
+                    "5bd06f5d86f77427101ad47c": 5,
+                    "6176a48d732a664031271438": 5,
+                    "6176a40f0b8c0312ac75a3d3": 5,
+                    "62a5c2c98ec41a51b34739c0": 5,
+                    "62a5c333ec21e50cad3b5dc6": 5,
+                    "62a5c41e8ec41a51b34739c3": 5,
+                    "635267ab3c89e2112001f826": 5,
+					"5e54f79686f7744022011103": 5
+                },
+                "Headwear": {
+                    "59ef13ca86f77445fd0e2483": 25
+                }
+			}
+        },
+        "christmas": {
+            "bossgluhar": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 5
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 500,
+                    "5a43957686f7742a2c2f11b0": 500
+                }
+            },
+            "bossbully": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 120
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 150,
+                    "5a43957686f7742a2c2f11b0": 150
+                }
+            },
+            "bossknight": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 1500
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 3,
+                    "5a43957686f7742a2c2f11b0": 3
+                }
+            },
+            "bosssanitar": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 600
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 3,
+                    "5a43957686f7742a2c2f11b0": 3
+                }
+            },
+			"bossboar": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 1
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 1,
+                    "5a43957686f7742a2c2f11b0": 1
+                }
+            },
+            "exusec": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 1200
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 500,
+                    "5a43957686f7742a2c2f11b0": 500
+                }
+            },
+            "followerbigpipe": {
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 3,
+                    "5a43957686f7742a2c2f11b0": 3
+                }
+            },
+            "followerbirdeye": {
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 1,
+                    "5a43957686f7742a2c2f11b0": 1
+                }
+            },
+            "followerbully": {
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 600,
+                    "5a43957686f7742a2c2f11b0": 600
+                }
+            },
+			"followerboar": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 250
+                },
+				"Headwear": {
+                    "5a43943586f77416ad2f06e2": 3,
+                    "5a43957686f7742a2c2f11b0": 3
+                }
+            },
+            "followergluharassault": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 550
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 700,
+                    "5a43957686f7742a2c2f11b0": 700
+                }
+            },
+            "followergluharscout": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 5
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 3,
+                    "5a43957686f7742a2c2f11b0": 3
+                }
+            },
+            "followergluharsecurity": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 5
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 3,
+                    "5a43957686f7742a2c2f11b0": 3
+                }
+            },
+            "followerkojaniy": {
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 3,
+                    "5a43957686f7742a2c2f11b0": 3
+                }
+            },
+            "followersanitar": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 5
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 1,
+                    "5a43957686f7742a2c2f11b0": 1
+                }
+            },
+            "marksman": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 400
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 1400,
+                    "5a43957686f7742a2c2f11b0": 1400
+                }
+            },
+            "pmcbot": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 1200
+                },
+                "Headwear": {
+                    "5a43943586f77416ad2f06e2": 600,
+                    "5a43957686f7742a2c2f11b0": 600
+                }
+            },
+            "sectantpriest": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 5
+                }
+            },
+            "sectantwarrior": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 5
+                }
+            },
+            "bear": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 30
+                },
+                "Headwear": {
+                    "5a43957686f7742a2c2f11b0": 80,
+                    "5a43943586f77416ad2f06e2": 80
+                }
+            },
+            "usec": {
+                "FaceCover": {
+                    "5c1a1e3f2e221602b66cc4c2": 30
+                },
+                "Headwear": {
+                    "5a43957686f7742a2c2f11b0": 80,
+                    "5a43943586f77416ad2f06e2": 80
+                }
+            }
+        }
+    },
+    "gifterSettings": [
+    ],
+    "events": [{
+            "name": "halloween",
+			"type": "HALLOWEEN",
+            "startDay": "24",
+            "startMonth": "10",
+            "endDay": "4",
+            "endMonth": "11"
+        }, {
+            "name": "christmas",
+			"type": "CHRISTMAS",
+            "startDay": "7",
+            "startMonth": "12",
+            "endDay": "31",
+            "endMonth": "12"
+        }, {
+            "name": "newyears",
+			"type": "NEW_YEARS",
+            "startDay": "1",
+            "startMonth": "1",
+            "endDay": "7",
+            "endMonth": "1"
+        }
+    ]
+}
