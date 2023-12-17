@@ -18,21 +18,18 @@ name ur old base files "base.bak" to keep a backup
 it is desired when adding changes to location.DB to delete the cache Found in 
 SIT_DIR>SERVER>USER>CACHE>DELETE BOTH JSONS. NOT SITCOOP!
 
-V1 files = Untested, there may be issues still need fixing like no pmc etc... report any issues!
+V1 files = there may be issues still need fixing like no pmc etc... report any issues!
 
 IF A FOLDER IN MY MOD IS EMPTY, THIS MEANS I HAVENT FINISHED THE MAP YET!!! PLEASE STAY PATIENT!
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\
 
-
 "Rules" 
 
                     (Normal: = default scavs will fight pmc, pmc wont fight same faction )
                     (AvoidOwnPMC: ?? test this i didnt have time)
                     (AvoidAllPMC: ALL PMC HOSTILE TO SAME FACTION/OPPOSITE FACTION & SCAVS)
- 
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 (3.7.3)
