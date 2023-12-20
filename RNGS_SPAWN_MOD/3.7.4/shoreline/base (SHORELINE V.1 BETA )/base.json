@@ -221,7 +221,7 @@
       "time": 420
     }
   ],
-  "MaxBotPerZone": 4,
+  "MaxBotPerZone": 8,
   "MaxCoopGroup": 13,
   "MaxDistToFreePoint": 200,
   "MaxPlayers": 13,
@@ -8686,18 +8686,6 @@
   "users_spawn_seconds_n2": 200,
   "users_summon_seconds": 0,
   "waves": [
-    {
-      "BotPreset": "normal",
-      "BotSide": "Savage",
-      "SpawnPoints": "",
-      "WildSpawnType": "assault",
-      "isPlayers": true,
-      "number": 0,
-      "slots_max": 1,
-      "slots_min": 0,
-      "time_max": 60,
-      "time_min": 30
-  },
   {
       "BotPreset": "hard",
       "BotSide": "Savage",
@@ -8705,8 +8693,8 @@
       "WildSpawnType": "assault",
       "isPlayers": true,
       "number": 1,
-      "slots_max": 6,
-      "slots_min": 0,
+      "slots_max": 8,
+      "slots_min": 4,
       "time_max": 10,
       "time_min": 1
   },
@@ -8717,8 +8705,8 @@
       "WildSpawnType": "assault",
       "isPlayers": true,
       "number": 2,
-      "slots_max": 6,
-      "slots_min": 0,
+      "slots_max": 8,
+      "slots_min": 4,
       "time_max": 10,
       "time_min": 1
   },
