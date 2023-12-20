@@ -8695,8 +8695,8 @@
       "number": 0,
       "slots_max": 1,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8731,8 +8731,8 @@
       "number": 3,
       "slots_max": 3,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8743,8 +8743,8 @@
       "number": 4,
       "slots_max": 3,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "normal",
@@ -8755,8 +8755,8 @@
       "number": 5,
       "slots_max": 3,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8767,8 +8767,8 @@
       "number": 6,
       "slots_max": 3,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "normal",
@@ -8779,8 +8779,8 @@
       "number": 7,
       "slots_max": 3,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8791,8 +8791,8 @@
       "number": 8,
       "slots_max": 4,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "normal",
@@ -8803,8 +8803,8 @@
       "number": 9,
       "slots_max": 3,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8815,8 +8815,8 @@
       "number": 10,
       "slots_max": 4,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "normal",
@@ -8827,8 +8827,8 @@
       "number": 11,
       "slots_max": 3,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8839,8 +8839,8 @@
       "number": 12,
       "slots_max": 4,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8851,8 +8851,8 @@
       "number": 13,
       "slots_max": 3,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "normal",
@@ -8863,8 +8863,8 @@
       "number": 14,
       "slots_max": 4,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8875,8 +8875,8 @@
       "number": 15,
       "slots_max": 5,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "normal",
@@ -8887,8 +8887,8 @@
       "number": 16,
       "slots_max": 2,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8899,8 +8899,8 @@
       "number": 17,
       "slots_max": 3,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "normal",
@@ -8911,8 +8911,8 @@
       "number": 18,
       "slots_max": 3,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8923,8 +8923,8 @@
       "number": 19,
       "slots_max": 1,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "hard",
@@ -8935,8 +8935,8 @@
       "number": 20,
       "slots_max": 2,
       "slots_min": 0,
-      "time_max": 10,
-      "time_min": 1
+      "time_max": 60,
+      "time_min": 30
   },
   {
       "BotPreset": "normal",
@@ -9461,10 +9461,10 @@
     "WildSpawnType": "assault",
     "isPlayers": true,
     "number": 64,
-    "slots_max": 6,
-    "slots_min": 3,
-    "time_max": 50,
-    "time_min": 5
+    "slots_max": 8,
+    "slots_min": 4,
+    "time_max": 10,
+    "time_min": 1
   },
   {
     "BotPreset": "normal",
@@ -9475,8 +9475,8 @@
     "number": 65,
     "slots_max": 6,
     "slots_min": 3,
-    "time_max": 100,
-    "time_min": 55
+    "time_max": 60,
+    "time_min": 10
   },
   {
   "BotPreset": "normal",
@@ -9509,10 +9509,10 @@
     "WildSpawnType": "assault",
     "isPlayers": true,
     "number": 68,
-    "slots_max": 6,
-    "slots_min": 3,
-    "time_max": 50,
-    "time_min": 5
+    "slots_max": 8,
+    "slots_min": 4,
+    "time_max": 10,
+    "time_min": 1
   },
   {
     "BotPreset": "normal",
@@ -9523,8 +9523,8 @@
     "number": 69,
     "slots_max": 6,
     "slots_min": 3,
-    "time_max": 100,
-    "time_min": 55
+    "time_max": 60,
+    "time_min": 10
   },
   {
   "BotPreset": "normal",
