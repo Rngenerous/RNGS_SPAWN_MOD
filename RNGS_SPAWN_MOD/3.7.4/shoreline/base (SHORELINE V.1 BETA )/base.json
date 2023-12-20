@@ -9453,6 +9453,102 @@
       "slots_min": 0,
       "time_max": 2100,
       "time_min": 600
+  },
+  {
+    "BotPreset": "normal",
+    "BotSide": "Savage",
+    "SpawnPoints": "ZoneSanatorium1",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 64,
+    "slots_max": 6,
+    "slots_min": 3,
+    "time_max": 50,
+    "time_min": 5
+  },
+  {
+    "BotPreset": "normal",
+    "BotSide": "Savage",
+    "SpawnPoints": "ZoneSanatorium1",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 65,
+    "slots_max": 6,
+    "slots_min": 3,
+    "time_max": 100,
+    "time_min": 55
+  },
+  {
+  "BotPreset": "normal",
+  "BotSide": "Savage",
+  "SpawnPoints": "ZoneSanatorium1",
+  "WildSpawnType": "assault",
+  "isPlayers": true,
+  "number": 66,
+  "slots_max": 6,
+  "slots_min": 3,
+  "time_max": 240,
+  "time_min": 110
+  },
+  {
+  "BotPreset": "normal",
+  "BotSide": "Savage",
+  "SpawnPoints": "ZoneSanatorium1",
+  "WildSpawnType": "assault",
+  "isPlayers": true,
+  "number": 67,
+  "slots_max": 6,
+  "slots_min": 3,
+  "time_max": 600,
+  "time_min": 300
+  },
+  {
+    "BotPreset": "normal",
+    "BotSide": "Savage",
+    "SpawnPoints": "ZoneSanatorium2",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 68,
+    "slots_max": 6,
+    "slots_min": 3,
+    "time_max": 50,
+    "time_min": 5
+  },
+  {
+    "BotPreset": "normal",
+    "BotSide": "Savage",
+    "SpawnPoints": "ZoneSanatorium2",
+    "WildSpawnType": "assault",
+    "isPlayers": true,
+    "number": 69,
+    "slots_max": 6,
+    "slots_min": 3,
+    "time_max": 100,
+    "time_min": 55
+  },
+  {
+  "BotPreset": "normal",
+  "BotSide": "Savage",
+  "SpawnPoints": "ZoneSanatorium2",
+  "WildSpawnType": "assault",
+  "isPlayers": true,
+  "number": 70,
+  "slots_max": 6,
+  "slots_min": 3,
+  "time_max": 240,
+  "time_min": 110
+  },
+  {
+  "BotPreset": "normal",
+  "BotSide": "Savage",
+  "SpawnPoints": "ZoneSanatorium2",
+  "WildSpawnType": "assault",
+  "isPlayers": true,
+  "number": 71,
+  "slots_max": 6,
+  "slots_min": 3,
+  "time_max": 600,
+  "time_min": 300
   }
   ]
 }
