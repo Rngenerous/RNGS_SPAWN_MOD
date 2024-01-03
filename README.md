@@ -7,6 +7,8 @@ There are 2 versions of this, standard and FPS+.
 - Standard: Made to feel as close to live as possible.
 - FPS+ (Alpha): Should still feel closer to live, but has a number of changes to increase FPS, use this if you are having FPS issues.
 
+Additionally there is a folder for 'vanilla bosses' for each of these where the boss spawns have not been changed.
+
 ## Installation
 
 - Backup '<SIT_SERVER_DIR>/Aki_Data/Server/database/locations'
