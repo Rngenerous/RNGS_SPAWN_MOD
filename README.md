@@ -1,81 +1,81 @@
 # RNGS_SPAWN_MOD
--
 
-DONT USE FPS+ AS THEY ARE UNFINISHED
+Updated spawns for Stay in Tarkov using the build in spawn system. This is still in beta, please report any issues found with this on discord to rngenerous.
 
+There are 2 versions of this, standard and FPS+.
 
--
-Thankyou for downloading! 
+- Standard: Made to feel as close to live as possible.
+- FPS+ (Alpha): Should still feel closer to live, but has a number of changes to increase FPS, use this if you are having FPS issues.
 
+Additionally there is a folder for 'vanilla bosses' for each of these where the boss spawns have not been changed.
 
-	
-Files are located in RNGSPAWN.MASTER>RNGS_SPAWN_MOD>THE MAP YOU WANT> 
+## Installation
 
-TO REPLACE A MAP MOVE MY FILE INTO SIT_DIR>SERVER>AKIDATA>SERVER>DATABASE>LOCATIONS>THE MAP YOU WANT TO CHANGE
+- Backup '<SIT_SERVER_DIR>/Aki_Data/Server/database/locations'
+- Copy and paste the contents of 'RNGS_SPAWN_MOD/\<VERSION\>/standard/' into '<SIT_SERVER_DIR>/Aki_Data/Server/database/locations' and override
+- Delete the 'jsonCache.json' and 'modCache.json' files in '<SIT_SERVER_DIR>/user/cache'
+- Restart the server
 
-name ur old base files "base.bak" to keep a backup 
+## Todo
 
-it is desired when adding changes to location.DB to delete the cache Found in 
-SIT_DIR>SERVER>USER>CACHE>DELETE BOTH JSONS. NOT SITCOOP!
+- Finish FPS+
+- Missing folders is because they are not finished yet
 
-V1 files = there may be issues still need fixing like no pmc etc... report any issues!
+## Changes
 
-IF A FOLDER IN MY MOD IS EMPTY, THIS MEANS I HAVENT FINISHED THE MAP YET!!! PLEASE STAY PATIENT!
+- General changes
+  - Nerfed Goon Spawn %
+  - Made waves feel a lot better, should feel more live like then live
+  - Raised Bot Cap
+  - Fixed
+    - "BotStart"
+    - "BotStartPlayer"
+    - "BotStop":
+- Customs
+  - PMCBOT 5%
+  - BOSSANITAR 10%
+  - BOSSGLUHAR 10%
+  - sectantPriest 10%,
+- Factory day/night
+  - BOSSKILLA 5%
+  - PMCBOT 10%
+  - GOONS 1%, 2x at night
+- Interchange
+  - BOSSTAGILLA 10%
+  - PMCBOT 5%
+  - BOSSBULLY 10%
+- Labs
+  - BOSS SANITAR 10%
+  - BOSSTAGILLA 25%
+  - BOSSKILLA 15%
+  - REWORKED PMCBOT AKA RAIDER SPAWN SYSTEM have fun ;)
+- Lighthouse
+  - CRAZYASSULTEVENT 25%
+  - REWORKED EXUSEC SPAWN SYSTEM
+- Reserve
+  - Reworked PMCBOT SPAWN SYSTEM
+- Shoreline
+  - ADDED BOSS EXUSEC 10%
+  - ADDED BOSSKOJANIY 15%
+  - ADDED GOONS 10%
+  - ADDED CRAZYASSUALTEVENT
+- Streets
+  - SECTANTPREIST 15%
+  - PMCBOT 30%
+  - BOSSSANITAR 15%
+  - BOSSKILLA 10%
+  - BOSSGLUHAR 20%
+  - BOSSBULLY 25%
+- Woods
+  - BOSSKOJANIY 30%
+  - ADDED CRAZYASSUALTEVENT
 
+## Rules
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\
+- (Normal: = default scavs will fight pmc, pmc wont fight same faction )
+- (AvoidOwnPMC: ?? test this i didnt have time)
+- (AvoidAllPMC: ALL PMC HOSTILE TO SAME FACTION/OPPOSITE FACTION & SCAVS)
 
-"Rules" 
+## Credits
 
-                    (Normal: = default scavs will fight pmc, pmc wont fight same faction )
-                    (AvoidOwnPMC: ?? test this i didnt have time)
-                    (AvoidAllPMC: ALL PMC HOSTILE TO SAME FACTION/OPPOSITE FACTION & SCAVS)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-(3.7.3)
-Customs - 
-ADDED PMCBOT 5%,BOSSANITAR 10%, BOSSGLUHAR 10%, sectantPriest 10%, 
-
-Factory day/night -
-ADDED BOSSKILLA 5%, PMCBOT 10% GOONS 1%, 2x at night
-
-interchange - 
-ADDED BOSSTAGILLA 10%, PMCBOT 5%, BOSSBULLY 10%,
-
-
-labs -
-ADDED BOSS SANITAR 10%, BOSSTAGILLA 25%, BOSSKILLA 15%, REWORKED PMCBOT AKA RAIDER SPAWN SYSTEM have fun ;)
-
-
-lighthouse -
-Fixed/added CRAZYASSULTEVENT 25%, REWORKED EXUSEC SPAWN SYSTEM
-
-reserve - 
-Reworked PMCBOT SPAWN SYSTEM
-
-shoreline - 
-ADDED BOSS EXUSEC 10%, ADDED BOSSKOJANIY 15%, ADDED GOONS 10%, fixed/added CRAZYASSUALTEVENT
-
-
-streets - 
-ADDED SECTANTPREIST 15%, PMCBOT 30%, BOSSSANITAR 15%, BOSSKILLA 10%, BOSSGLUHAR 20%, BOSSBULLY 25%
-
-
-Woods-
-INCREASED BOSSKOJANIY 30%, ADDED CRAZYASSUALTEVENT 
-
-All Maps -
-NERFED GOONS SPAWN % 
-DID MY THING MADE REAL GOOD WAVES - should feel more live like then live XD
-RAISED BOTCAP
-fixed 
-"BotStart"
-"BotStartPlayer"
-"BotStop":
-i wil make fps + soon 
-
-FEEL FREE TO DM ME ANY QUESTIONS
-
-Discord - rngenerous
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-i wil make fps + soon 
+- rngenerous - Making and maintaining this mod
