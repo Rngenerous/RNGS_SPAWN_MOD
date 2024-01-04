@@ -1,0 +1,69 @@
+"maxBotCapasonline": {
+    "factory4_day": 99,
+    "factory4_night": 99,
+    "bigmap": 99,
+    "woods": 99,
+    "shoreline": 99,
+    "lighthouse": 99,
+    "rezervbase": 99,
+    "interchange": 99,
+    "laboratory": 99,
+    "tarkovstreets": 99,
+    "default": 25
+},
+
+"maxBotCapLow": {
+    "factory4_day": 99,
+    "factory4_night": 99,
+    "bigmap": 99,
+    "woods": 99,
+    "shoreline": 99,
+    "lighthouse": 99,
+    "rezervbase": 99,
+    "interchange": 99,
+    "laboratory": 99,
+    "tarkovstreets": 99,
+    "default": 15
+},
+
+"maxBotCapMed": {
+    "factory4_day": 99,
+    "factory4_night": 99,
+    "bigmap": 99,
+    "woods": 99,
+    "shoreline": 99,
+    "lighthouse": 99,
+    "rezervbase": 99,
+    "interchange": 99,
+    "laboratory": 99,
+    "tarkovstreets": 99,
+    "default": 15
+},
+
+"maxBotCapHigh": {
+    "factory4_day": 99,
+    "factory4_night": 99,
+    "bigmap": 99,
+    "woods": 99,
+    "shoreline": 99,
+    "lighthouse": 99,
+    "rezervbase": 99,
+    "interchange": 99,
+    "laboratory": 99,
+    "tarkovstreets": 99,
+    "default": 15
+},
+
+"maxBotCapHorde": {
+    "factory4_day": 99,
+    "factory4_night": 99,
+    "bigmap": 99,
+    "woods": 99,
+    "shoreline": 99,
+    "lighthouse": 99,
+    "rezervbase": 99,
+    "interchange": 99,
+    "laboratory": 99,
+    "tarkovstreets": 99,
+    "default": 15
+},
