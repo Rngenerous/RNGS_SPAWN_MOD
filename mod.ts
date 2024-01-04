@@ -1,4 +1,4 @@
-//
+//NOT FUNCTIONAL YET DONT USE
 import { DependencyContainer } from "tsyringe";
 import { IPreAkiLoadMod } from "@spt-aki/models/external/IPreAkiLoadMod";
 import { IPostDBLoadMod } from "@spt-aki/models/external/IPostDBLoadMod";
