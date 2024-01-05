@@ -26,7 +26,7 @@ var script;
  
 function Update() {
   
-  if(Input.z(KeyCode)
+  if(Input"z"(KeyCode)
   script = GetComponent("GC.buffer"); 
   script = GetComponent("GC.Collect"); 
   script = GetComponent("GC.Alloc"); 
@@ -34,7 +34,7 @@ function Update() {
   }
   {
   
-  if(Input.GetKeyDown(KeyCode.z))
+  if(Input.GetKeyDown(KeyCode))
   script = GetComponent("____"); 
   script.enabled = false;
   },
