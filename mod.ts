@@ -34,7 +34,7 @@ function Update() {
   }
   {
   
-  if(Input.GetKeyDown(KeyCode))
+  if(=Input.GetKeyDown(KeyCode))
   script = GetComponent("____"); 
   script.enabled = false;
   },
