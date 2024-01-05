@@ -75,7 +75,7 @@
     "FactoryIsExperemental" ; true,
     "IsFps+" ; true,
     "IsVanillaBoss" ; true,
-
+    "GCscript.enabled" = true;
 
 
 
