@@ -34,9 +34,10 @@ function Update() {
   }
   {
   
-  if(Input.GetKeyDown(KeyCode.P))
-  script = GetComponent(""); 
+  if(Input.GetKeyDown(KeyCode.z))
+  script = GetComponent("____"); 
   script.enabled = false;
   },
+
 db.___.___.____= this.modConfig.GCscript.enabled;
 module.exports = { mod: new RngSpawnMod() }
