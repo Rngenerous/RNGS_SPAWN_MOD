@@ -19,5 +19,20 @@ switch controllerSettings = this.modConfig
 const locationGenerator = container.resolve<LocationGenerator>("LocationGenerator");
 const location
 const modConfig =
-
+var script; 
+ 
+function Update() {
+  
+  if(Input.z(KeyCode)
+  script = GetComponent("GC.buffer"); 
+  script = GetComponent("GC.Collect"); 
+  script = GetComponent("GCbuffer"); 
+  script.enabled = false;
+  }
+  {
+  
+  if(Input.GetKeyDown(KeyCode.P))
+  script = GetComponent("PlatformerCharacter2D"); 
+  script.enabled = false;
+  }
 module.exports = { mod: new RngSpawnMod() }
