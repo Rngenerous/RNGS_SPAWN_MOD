@@ -2,5 +2,6 @@ cleanup Shoreline/rezerve
 Add waves on customs
 Fix fake botgen in normal files 
 update streets to 3.7.6 
+update rezerve to 3.7.6
 remove scav from labs
 FPS+
