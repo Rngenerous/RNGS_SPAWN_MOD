@@ -64,8 +64,8 @@ Additionally there is a folder for 'vanilla bosses' for each of these where the 
   - PMCBOT 30%
   - BOSSSANITAR 15%
   - BOSSKILLA 10%
-  - BOSSGLUHAR 20%
-  - BOSSBULLY 25%
+  - BOSSGLUHAR 15%
+  - BOSSBULLY 20%
 - Woods
   - BOSSKOJANIY 30%
   - ADDED CRAZYASSUALTEVENT
