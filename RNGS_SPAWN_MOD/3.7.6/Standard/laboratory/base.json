@@ -442,8 +442,8 @@
     "VisibleDistance": 1
   },
   "BotMarksman": 0,
-  "BotMax": 28,
-  "BotMaxPlayer": 28,
+  "BotMax": 21,
+  "BotMaxPlayer": 21,
   "BotMaxTimePlayer": 1000,
   "BotNormal": 30,
   "BotSpawnCountStep": 3,
