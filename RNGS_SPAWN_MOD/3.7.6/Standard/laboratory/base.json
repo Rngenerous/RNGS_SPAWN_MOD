@@ -442,8 +442,8 @@
     "VisibleDistance": 1
   },
   "BotMarksman": 0,
-  "BotMax": 18,
-  "BotMaxPlayer": 18,
+  "BotMax": 16,
+  "BotMaxPlayer": 16,
   "BotMaxTimePlayer": 1000,
   "BotNormal": 30,
   "BotSpawnCountStep": 3,
@@ -5300,7 +5300,7 @@
       "isPlayers": true,
       "number": 0,
       "slots_max": 6,
-      "slots_min": 3,
+      "slots_min": 1,
       "time_max": 60,
       "time_min": 10
   },
@@ -5312,7 +5312,7 @@
       "isPlayers": true,
       "number": 1,
       "slots_max": 6,
-      "slots_min": 3,
+      "slots_min": 1,
       "time_max": 60,
       "time_min": 10
   },
@@ -5324,7 +5324,7 @@
       "isPlayers": true,
       "number": 2,
       "slots_max": 6,
-      "slots_min": 3,
+      "slots_min": 1,
       "time_max": 60,
       "time_min": 10
   },
