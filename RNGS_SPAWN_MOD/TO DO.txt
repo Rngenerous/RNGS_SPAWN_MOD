@@ -1,8 +1,5 @@
 cleanup Shoreline/rezerve 
 Add waves on customs
 Fix fake botgen in normal files 
-
-update rezerve to 3.7.6
 remove scav from labs
 FPS+
-SOME FILES NEED UPDATING TO 3.7.6 im aware of this and will when i can
